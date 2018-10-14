@@ -1,5 +1,5 @@
 #py the hard way
-#ex25
+#ex26
 
 # - *- coding: utf- 8 - *-
 
